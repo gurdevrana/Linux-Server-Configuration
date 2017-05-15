@@ -2,7 +2,7 @@
 In this project, a Linux virtual machine is configured to support the Item Catalog web app.<br>
 Project is live at http://34.200.246.56/ 
 
-# Launch Virtual Machine
+## Launch Virtual Machine
 1.Create .ssh directory in parent working directory by using command:<br>
 mkdir .ssh<br>
 2.Move key to .ssh folder<br>
